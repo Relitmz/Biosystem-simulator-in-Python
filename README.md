@@ -27,7 +27,7 @@ Rabbits and wolves need to eat, survive and reproduce
 <br><br>
 <br><br>
 ![image](https://github.com/user-attachments/assets/432d56e9-bbe2-47fa-99eb-d14a7b635482)
-_F1: White represents female rabbit, brown represents male rabbit
+  White represents female rabbit, brown represents male rabbit
 <br><br>
 ![image](https://github.com/user-attachments/assets/2d8f86a7-42f9-4d75-9bec-9932068437e6)
-_F2: Environment generated using a simple procedural algorithm developed by me
+  Environment generated using a simple procedural algorithm developed by me
