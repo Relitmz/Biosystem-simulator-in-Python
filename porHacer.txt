@@ -1,0 +1,5 @@
+Urgente =>
+Funcione boton => Acabar pantalla inicio
+
+Sin más =>
+#Relleno de islas (background)
