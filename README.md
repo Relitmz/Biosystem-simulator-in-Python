@@ -24,8 +24,10 @@ Rabbits and wolves need to eat, survive and reproduce
   - Biologist interested in helping me develoup the genes system (after all i´m just an engineer)
   - Other coder willing to help with the UI and back-end of the project
 
-
-White represents female rabbit, brown represents male rabbit
+<br><br>
+<br><br>
 ![image](https://github.com/user-attachments/assets/432d56e9-bbe2-47fa-99eb-d14a7b635482)
-Environment generated using a simple procedural algorithm developed by me
+_White represents female rabbit, brown represents male rabbit
+<br><br>
 ![image](https://github.com/user-attachments/assets/2d8f86a7-42f9-4d75-9bec-9932068437e6)
+_Environment generated using a simple procedural algorithm developed by me
