@@ -12,7 +12,7 @@ Rabbits and wolves need to eat, survive and reproduce  <br>
   - They will die from starvation, dehydration or age  <br>
   - They have basic urges to eat, drink, and reproduce  <br>
   - Genes will be inherited by the next generation  <br>
-<br><br>
+<br>
 Genes will establish traits such as:  <br>
         - Urge to eat  <br>
         - Urge to reproduce  <br>
