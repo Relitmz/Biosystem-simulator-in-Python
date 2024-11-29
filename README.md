@@ -21,7 +21,7 @@ Rabbits and wolves need to eat, survive and reproduce
         - Other factors...
 
 <h3>Looking for interested people looking forward working in this project:</h3>
-  - Biologist interested in helping me develoup the genes system (after all i´m just an engineer)
+  - Biologist interested in helping me develoup the genes system
   - Other coder willing to help with the UI and back-end of the project
 
 <br><br>
